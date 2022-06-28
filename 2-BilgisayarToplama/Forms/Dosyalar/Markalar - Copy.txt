@@ -1,0 +1,47 @@
+﻿CPU;AMD
+CPU;Intel
+EkranKarti;NVIDIA
+EkranKarti;Afox 
+EkranKarti;Asus 
+EkranKarti;Axle 
+EkranKarti;Gainward 
+EkranKarti;Gigabyte 
+EkranKarti;MSI
+EkranKarti;PNY
+EkranKarti;Sapphire
+EkranKarti;Seclife 
+EkranKarti;XFX 
+EkranKarti;Zotac
+AnaKart;Asus
+AnaKart;Gigabyte 
+AnaKart;MSI 
+Ram;ADATA
+Ram;Apacer 
+Ram;Corsair
+Ram;Hi-level
+Ram;Hilevel
+Ram;HyperX
+Ram;Kingston
+Ram;Lexar
+Ram;PNY
+Ram;Patriot
+Ram;Silicon Power
+Ram;Team
+Ram;XPG
+Kasa;Asus
+Kasa;Cooler Master
+Kasa;Corsair
+Kasa;Cougar
+Kasa;DEEPCOOL
+Kasa;FSP 
+Kasa;Frisby
+Kasa;GamePower
+Kasa;Hiper
+Kasa;Lian Li 
+Kasa;MSI
+Kasa;NZXT 
+Kasa;Sharkoon
+Kasa;Thermaltake
+CPU;ftghfgh
+CPU;cvbcvbcvb
+CPU;dfgdfgdfg

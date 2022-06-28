@@ -1,0 +1,8 @@
+﻿Interface'ler class'lar icin sablonlardir.
+Bu sayade siniflara yetenek kazandirirlar.
+Siniflarin hangi metodlari icermesi gerektigi belirler.
+Yani siniflara klavuzluk ederler.
+
+Iterface icerisinde prop'lar ve metod imzalari varidir 
+Ancak govdeleri yoktur. Miras verdikleri siniflar icerisinde 
+icerikleri tanimlanir.

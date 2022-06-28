@@ -1,0 +1,2 @@
+﻿1;Everest;EPS-600A;Power Supply;495.52;04.03.2022;600W 
+2;Corsair;RM Serisi (2021) RM750 CP-9020234-EU ;Power Supply;1975.52;04.03.2022;750W
